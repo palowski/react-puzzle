@@ -1,5 +1,5 @@
 # React Puzzle
-super simple (36 lines of code) version of the classic game. Just for fun. 
+super simple (36 lines of code) version of the classic game.  
 
 ## Scripts
 
